@@ -1,0 +1,12 @@
+{
+  "window.zoomLevel": 0,
+  "editor.fontSize": 12,
+  "editor.tabSize": 2,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.arrowParens": "avoid",
+  "prettier.useTabs": false,
+  "prettier.tabWidth": 2,
+  "prettier.semi": true,
+  "files.eol": "\r\n"
+}
