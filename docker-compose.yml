@@ -1,0 +1,8 @@
+version: "2"
+services:
+  app:
+    build: .
+    container_name: "graphql-react-upload-example"
+    # Expose port 3000 of host machine and map it to port 3000 container (Docker)
+    ports:
+     - "3000:3000"
